@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h1 class="title1">Wishing You & Your Family a very</h1>
-        <h2 class="title">Happy Diwali</h2>
+        <h2 class="title">Happy christmas</h2>
         <ul class="fireworks">
             <li><span></span></li>
             <li><span></span></li>
