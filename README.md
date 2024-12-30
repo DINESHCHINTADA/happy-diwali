@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link rel="stylesheet" href="happy diwali.css ">
+    <title>Happy Diwali</title>
+    <link rel="stylesheet" href="happy_diwali.css">
 </head>
 <body>
     <div class="container">
         <h1 class="title1">Wishing You & Your Family a very</h1>
-        <h2 class="title">Happy Newyear</h2>
+        <h2 class="title">Happy Christmas</h2>
         <ul class="fireworks">
             <li><span></span></li>
             <li><span></span></li>
